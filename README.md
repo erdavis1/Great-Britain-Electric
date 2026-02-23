@@ -10,5 +10,5 @@
  
 ## Plotting the map
 - Run plotMap.R to create the plot
-- Simplifies the cable lines one step further by forcing them to lie at multiples of 15 degrees (subway-map adjacent)
+-  Adjust color variables to change the look of the map
 - Outputs an svg for further refining in Illustrator
